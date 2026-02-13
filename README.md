@@ -1,58 +1,70 @@
-# Jared 👋  
-Senior Full-Stack Engineer · AI-Focused Architect · Systems Builder
-
-I design scalable backend systems, production-grade AI applications,  
-and secure infrastructure with a focus on performance and clarity.
+<!-- Subtle typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&pause=1000&color=4DA3FF&center=true&vCenter=true&width=700&lines=Senior+Full-Stack+Engineer;AI-Focused+Architect;Systems+Builder+%7C+Quick+Problem+Solver;Shipping+Scalable+Software+That+Works" />
+</p>
 
 ---
 
-## 🧠 What I Work On
+# Jared
 
-- AI agent architectures & orchestration systems
-- Secure proxy & audit infrastructure (HTTP/2, SSE, streaming)
-- Scalable SaaS platforms
-- Cloud-native backend systems
-- Performance optimization & debugging complex systems
+Senior Full-Stack Engineer · AI-Focused Architect  
+
+I design and build scalable systems, intelligent AI-driven platforms,  
+and secure cloud-native infrastructure.
+
+My focus is simple:  
+**clarity in architecture, performance in execution, and impact in delivery.**
+
+---
+
+## 🧠 Engineering Focus
+
+- AI agent orchestration & streaming inference systems  
+- Secure protocol auditing (HTTP/2 · SSE · streaming APIs)  
+- Distributed backend architectures  
+- High-performance full-stack SaaS systems  
+- Cloud-native infrastructure & DevOps  
 
 ---
 
 ## ⚙️ Core Stack
 
 **Backend**  
-Python · Node.js · .NET · Go · REST · gRPC
+Python · Node.js · .NET · Go · REST · gRPC  
 
 **Frontend**  
-React · Next.js · Angular · TypeScript
+React · Next.js · Angular · TypeScript  
 
 **Cloud & DevOps**  
-AWS · GCP · Docker · Kubernetes · CI/CD
+AWS · GCP · Docker · Kubernetes · CI/CD  
 
-**AI & Data**  
-OpenAI · Gemini · Claude · Vector DB · Streaming APIs
-
----
-
-## 🚀 Featured Work
-
-### 🔐 PGDFProxy
-Multi-protocol MITM auditing system  
-HTTP/2 · AI stream capture · Git/SVN traffic inspection
-
-### 🤖 AI Agent Systems
-Autonomous routing, streaming response handling, and structured orchestration
-
-### 📦 SaaS Architectures
-High-performance full-stack systems with secure backend design
+**AI Systems**  
+OpenAI · Gemini · Claude · Vector Databases  
 
 ---
 
-## 📊 GitHub
+## 🚀 Selected Work
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rabbit523&show_icons=true&hide_border=true)
+### 🔐 PGDFProxy  
+Advanced multi-protocol MITM auditing proxy  
+Built for AI traffic inspection, HTTP/2 streaming capture, and protocol analysis.
+
+### 🤖 AI Agent Architectures  
+Structured routing, streaming inference control, and orchestration layers for production AI systems.
+
+### 📦 Scalable SaaS Platforms  
+Full-stack architectures designed for performance, maintainability, and long-term scale.
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rabbit523&show_icons=true&hide_border=true&theme=transparent" />
+</p>
 
 ---
 
 ## 📫 Connect
 
-LinkedIn: your-link  
-Email: your-email
+Let’s build intelligent systems that scale.
