@@ -60,7 +60,9 @@ Full-stack architectures designed for performance, maintainability, and long-ter
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rabbit523&show_icons=true&hide_border=true&theme=transparent" />
+  <img 
+  src="https://github-readme-stats.vercel.app/api?username=Rabbit523&show_icons=true&theme=github_dark&hide_border=true" 
+/>
 </p>
 
 ---
