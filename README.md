@@ -1,4 +1,4 @@
-# Jason 👋  
+# Jared 👋  
 Senior Full-Stack Engineer · AI-Focused Architect · Systems Builder
 
 I design scalable backend systems, production-grade AI applications,  
