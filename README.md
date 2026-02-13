@@ -78,6 +78,7 @@ Full-stack architectures designed for performance, maintainability, and long-ter
         │  Database  │   │  Logging   │
         └────────────┘   └────────────┘
 ---
+```
 
 ## 📊 GitHub Activity
 
