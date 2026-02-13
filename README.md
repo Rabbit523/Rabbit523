@@ -7,7 +7,7 @@
 
 # Jared
 
-Senior Full-Stack Engineer · AI-Focused Architect  
+Senior Full-Stack Engineer · AI-Focused Architect
 
 I design and build scalable systems, intelligent AI-driven platforms,  
 and secure cloud-native infrastructure.
@@ -19,49 +19,71 @@ My focus is simple:
 
 ## 🧠 Engineering Focus
 
-- AI agent orchestration & streaming inference systems  
-- Secure protocol auditing (HTTP/2 · SSE · streaming APIs)  
-- Distributed backend architectures  
-- High-performance full-stack SaaS systems  
-- Cloud-native infrastructure & DevOps  
+- AI agent orchestration & streaming inference systems
+- Secure protocol auditing (HTTP/2 · SSE · streaming APIs)
+- Distributed backend architectures
+- High-performance full-stack SaaS systems
+- Cloud-native infrastructure & DevOps
 
 ---
 
 ## ⚙️ Core Stack
 
 **Backend**  
-Python · Node.js · .NET · Go · REST · gRPC  
+Python · Node.js · .NET · Go · REST · gRPC
 
 **Frontend**  
-React · Next.js · Angular · TypeScript  
+React · Next.js · Angular · TypeScript
 
 **Cloud & DevOps**  
-AWS · GCP · Docker · Kubernetes · CI/CD  
+AWS · GCP · Docker · Kubernetes · CI/CD
 
 **AI Systems**  
-OpenAI · Gemini · Claude · Vector Databases  
+OpenAI · Gemini · Claude · Vector Databases
 
 ---
 
 ## 🚀 Selected Work
 
-### 🔐 PGDFProxy  
+### 🔐 PGDFProxy
+
 Advanced multi-protocol MITM auditing proxy  
 Built for AI traffic inspection, HTTP/2 streaming capture, and protocol analysis.
 
-### 🤖 AI Agent Architectures  
+### 🤖 AI Agent Architectures
+
 Structured routing, streaming inference control, and orchestration layers for production AI systems.
 
-### 📦 Scalable SaaS Platforms  
+### 📦 Scalable SaaS Platforms
+
 Full-stack architectures designed for performance, maintainability, and long-term scale.
 
+### 🏗 System Architecture
+
+```text
+             ┌────────────────────┐
+             │      Client        │
+             └─────────┬──────────┘
+                       ↓
+             ┌────────────────────┐
+             │    API Gateway     │
+             └─────────┬──────────┘
+                       ↓
+        ┌────────────────────────────┐
+        │     Core Processing        │
+        │  (AI Routing / Engine)     │
+        └─────────┬──────────┬───────┘
+                  ↓          ↓
+        ┌────────────┐   ┌────────────┐
+        │  Database  │   │  Logging   │
+        └────────────┘   └────────────┘
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img 
-  src="https://github-readme-stats.vercel.app/api?username=Rabbit523&show_icons=true&theme=github_dark&hide_border=true" 
+  <img
+  src="https://github-readme-stats.vercel.app/api?username=Rabbit523&show_icons=true&theme=github_dark&hide_border=true"
 />
 </p>
 
@@ -70,3 +92,4 @@ Full-stack architectures designed for performance, maintainability, and long-ter
 ## 📫 Connect
 
 Let’s build intelligent systems that scale.
+```
